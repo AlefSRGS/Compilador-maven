@@ -1,0 +1,15 @@
+com\compiladores\gramatica\gramaticaParser$FatorContext.class
+com\compiladores\gramatica\gramaticaLexer.class
+com\compiladores\gramatica\gramaticaParser.class
+com\compiladores\gramatica\gramaticaParser$AlgoContext.class
+com\compiladores\gramatica\gramaticaBaseListener.class
+com\compiladores\gramatica\gramaticaParser$TypeContext.class
+com\compiladores\gramatica\gramaticaParser$OperatorContext.class
+com\compiladores\gramatica\gramaticaParser$ProgramContext.class
+com\compiladores\gramatica\gramaticaListener.class
+com\compiladores\antlr4compiler\Calculator.class
+com\compiladores\antlr4compiler\Antlr4compiler.class
+com\compiladores\gramatica\gramaticaParser$TermoContext.class
+com\compiladores\gramatica\gramaticaBaseVisitor.class
+com\compiladores\gramatica\gramaticaParser$ExpressionContext.class
+com\compiladores\gramatica\gramaticaVisitor.class
