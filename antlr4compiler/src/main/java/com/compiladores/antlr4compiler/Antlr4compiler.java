@@ -14,7 +14,7 @@ public class Antlr4compiler {
 
     public static void main(String[] args) throws IOException {
         // Ler a entrada do usuário ou de um arquivo
-        CharStream input = CharStreams.fromFileName("antlr4compiler\\src\\main\\java\\com\\compiladores\\antlr4compiler\\input.txt");
+        CharStream input = CharStreams.fromFileName("input.txt");
 
         // Criar o lexer
         gramaticaLexer lexer = new gramaticaLexer(input);
